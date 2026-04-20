@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 132" fill="none">
+  <defs>
+    <linearGradient id="velora-purple" x1="26" y1="40" x2="91" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D934FF"/>
+      <stop offset="0.48" stop-color="#962EF2"/>
+      <stop offset="1" stop-color="#4B2BD7"/>
+    </linearGradient>
+    <linearGradient id="velora-violet" x1="54" y1="74" x2="124" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2747D6"/>
+      <stop offset="1" stop-color="#1E79EA"/>
+    </linearGradient>
+    <linearGradient id="velora-blue" x1="58" y1="76" x2="150" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C49D8"/>
+      <stop offset="0.55" stop-color="#209BE8"/>
+      <stop offset="1" stop-color="#3CE6E2"/>
+    </linearGradient>
+    <linearGradient id="velora-teal" x1="73" y1="85" x2="161" y2="23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12AEB2"/>
+      <stop offset="0.5" stop-color="#36D5C4"/>
+      <stop offset="1" stop-color="#7AF6BF"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M33 42C54 37 72 40 90 59C76 62 65 72 57 89C51 74 43 58 33 42Z" fill="url(#velora-purple)"/>
+  <path d="M54 74C72 62 101 52 129 39C118 54 97 74 76 94C70 86 63 79 54 74Z" fill="url(#velora-violet)"/>
+  <path d="M58 76C83 61 118 50 150 29C140 49 117 73 83 96C77 89 68 82 58 76Z" fill="url(#velora-blue)"/>
+  <path d="M73 85C98 66 135 54 161 23C157 53 137 95 99 121C94 106 85 94 73 85Z" fill="url(#velora-teal)"/>
+
+  <circle cx="139" cy="13" r="4.4" fill="#56E2DE"/>
+  <circle cx="151" cy="25" r="6.2" fill="#46DDD4"/>
+  <circle cx="132" cy="31" r="7.4" fill="#43D6CF"/>
+  <circle cx="138" cy="24" r="3.1" fill="#61EAE2"/>
+</svg>
