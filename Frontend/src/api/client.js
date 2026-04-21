@@ -4,7 +4,7 @@ export const AUTH_STORAGE_KEY = "crm-auth";
 export const AUTH_EXPIRED_EVENT = "crm-auth-expired";
 
 const client = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || "/api"
+  baseURL: "https://velora-crm.onrender.com/" || "/api"
 });
 
 const readStoredAuth = () => {
