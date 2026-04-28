@@ -2,6 +2,8 @@
 
 A modern, full-stack Customer Relationship Management (CRM) system built using the **MERN stack**. Velora CRM helps teams manage leads, track sales pipelines, and gain insights through a clean, data-driven dashboard.
 
+Deploy at : https://velora-crm.vercel.app/
+
 ---
 
 ## 🌟 Overview
