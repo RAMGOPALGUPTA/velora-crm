@@ -165,12 +165,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your dashboard here for better presentation.*
-
----
-
 ## 🚀 Future Enhancements
 
 * Kanban board (drag & drop pipeline)
